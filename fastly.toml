@@ -3,3 +3,4 @@ description = "Implements WebSocket passthrough."
 language = "rust"
 manifest_version = 2
 name = "WebSockets passthrough"
+service_id = "0H2tzcLGBwyC5e6GTYwng4"
